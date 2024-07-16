@@ -1,0 +1,1 @@
+Değişkenler ödevini içerir
